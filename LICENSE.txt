@@ -1,0 +1,438 @@
+THE FOLLOWING SETS FORTH ATTRIBUTION NOTICES FOR THIRD PARTY SOFTWARE THAT MAY BE CONTAINED IN PORTIONS OF THE PERKSAPP PRODUCT.
+
+-----
+
+Apache License 2.0
+
+The following component(s) are licensed under the Apache License 2.0 reproduced below:
+
+* absl
+* activity
+* Android App Startup Runtime Copyright (c) 2018 The Android Open Source Project
+* Android AppCompat Copyright (c) 2018 The Android Open Source Project
+* Android Arch-Common Copyright (c) 2018 The Android Open Source Project
+* Android Arch-Runtime Copyright (c) 2018 The Android Open Source Project
+* Android ConstraintLayout Copyright (c) 2018 The Android Open Source Project
+* Android ConstraintLayout Core Copyright (c) 2018 The Android Open Source Project
+* Android Emoji2 Compat Copyright (c) 2018 The Android Open Source Project
+* Android Emoji2 Compat view helpers Copyright (c) 2018 The Android Open Source Project
+* Android Lifecycle Extensions Copyright (c) 2018 The Android Open Source Project
+* Android Lifecycle LiveData Copyright (c) 2018 The Android Open Source Project
+* Android Lifecycle LiveData Core Copyright (c) 2018 The Android Open Source Project
+* Android Lifecycle Process Copyright (c) 2018 The Android Open Source Project
+* Android Lifecycle Runtime Copyright (c) 2018 The Android Open Source Project
+* Android Lifecycle Service Copyright (c) 2018 The Android Open Source Project
+* Android Lifecycle ViewModel Copyright (c) 2018 The Android Open Source Project
+* Android Lifecycle ViewModel with SavedState Copyright (c) 2018 The Android Open Source Project
+* Android Lifecycle-Common Copyright (c) 2018 The Android Open Source Project
+* Android Multi-Dex Library Copyright (c) 2018 The Android Open Source Project
+* Android Resource Inspection - Annotations Copyright (c) 2018 The Android Open Source Project
+* Android Resources Library Copyright (c) 2018 The Android Open Source Project
+* Android Sliding Up Panel Library Copyright (c) 2018 The Android Open Source Project
+* Android Support AnimatedVectorDrawable Copyright (c) 2018 The Android Open Source Project
+* Android Support CardView v7 Copyright (c) 2018 The Android Open Source Project
+* Android Support Custom Tabs Copyright (c) 2018 The Android Open Source Project
+* Android Support DynamicAnimation Copyright (c) 2018 The Android Open Source Project
+* Android Support ExifInterface Copyright (c) 2018 The Android Open Source Project
+* Android Support Library Annotations Copyright (c) 2018 The Android Open Source Project
+* Android Support Library Async Layout Inflater Copyright (c) 2018 The Android Open Source Project
+* Android Support Library collections Copyright (c) 2018 The Android Open Source Project
+* Android Support Library compat Copyright (c) 2018 The Android Open Source Project
+* Android Support Library Coordinator Layout Copyright (c) 2018 The Android Open Source Project
+* Android Support Library core UI Copyright (c) 2018 The Android Open Source Project
+* Android Support Library core utils Copyright (c) 2018 The Android Open Source Project
+* Android Support Library Cursor Adapter Copyright (c) 2018 The Android Open Source Project
+* Android Support Library Custom View Copyright (c) 2018 The Android Open Source Project
+* Android Support Library Document File Copyright (c) 2018 The Android Open Source Project
+* Android Support Library Drawer Layout Copyright (c) 2018 The Android Open Source Project
+* Android Support Library fragment Copyright (c) 2018 The Android Open Source Project
+* Android Support Library Interpolators Copyright (c) 2018 The Android Open Source Project
+* Android Support Library loader Copyright (c) 2018 The Android Open Source Project
+* Android Support Library Local Broadcast Manager Copyright (c) 2018 The Android Open Source Project
+* Android Support Library media compat Copyright (c) 2018 The Android Open Source Project
+* Android Support Library Print Copyright (c) 2018 The Android Open Source Project
+* Android Support Library Sliding Pane Layout Copyright (c) 2018 The Android Open Source Project
+* Android Support Library v4 Copyright (c) 2018 The Android Open Source Project
+* Android Support Library View Pager Copyright (c) 2018 The Android Open Source Project
+* Android Support RecyclerView Copyright (c) 2018 The Android Open Source Project
+* Android Support VectorDrawable Copyright (c) 2018 The Android Open Source Project
+* Android Tracing Copyright (c) 2018 The Android Open Source Project
+* Android Transition Support Library Copyright (c) 2018 The Android Open Source Project
+* android build Copyright (c) 2018 The Android Open Source Project
+* AndroidX activity library Copyright (c) 2018 The Android Open Source Project
+* AndroidX annotation experimental library Copyright (c) 2018 The Android Open Source Project
+* AndroidX annotation library Copyright (c) 2018 The Android Open Source Project
+* AndroidX architecture core common library Copyright (c) 2018 The Android Open Source Project
+* AndroidX architecture core library Copyright (c) 2018 The Android Open Source Project
+* AndroidX architecture core runtime library Copyright (c) 2018 The Android Open Source Project
+* AndroidX architecture library Copyright (c) 2018 The Android Open Source Project
+* AndroidX async layout inflater Copyright (c) 2018 The Android Open Source Project
+* AndroidX asynclayoutinflater library Copyright (c) 2018 The Android Open Source Project
+* AndroidX collection library Copyright (c) 2018 The Android Open Source Project
+* AndroidX concurrent futures library Copyright (c) 2018 The Android Open Source Project
+* AndroidX coordinatorlayout library Copyright (c) 2018 The Android Open Source Project
+* AndroidX core library Copyright (c) 2018 The Android Open Source Project
+* AndroidX cursoradapter library Copyright (c) 2018 The Android Open Source Project
+* AndroidX customview library Copyright (c) 2018 The Android Open Source Project
+* AndroidX document file library Copyright (c) 2018 The Android Open Source Project
+* AndroidX drawerlayout library Copyright (c) 2018 The Android Open Source Project
+* AndroidX fragment library Copyright (c) 2018 The Android Open Source Project
+* AndroidX Futures Copyright (c) 2018 The Android Open Source Project
+* AndroidX interpolator library Copyright (c) 2018 The Android Open Source Project
+* AndroidX legacy core UI libraries Copyright (c) 2018 The Android Open Source Project
+* AndroidX legacy coreutils library Copyright (c) 2018 The Android Open Source Project
+* AndroidX legacy v4 library Copyright (c) 2018 The Android Open Source Project
+* AndroidX lifecycle common library Copyright (c) 2018 The Android Open Source Project
+* AndroidX lifecycle livedatacore library Copyright (c) 2018 The Android Open Source Project
+* AndroidX lifecycle runtime library Copyright (c) 2018 The Android Open Source Project
+* AndroidX lifecycle viewmodel library Copyright (c) 2018 The Android Open Source Project
+* AndroidX lifecycle viewmodel savedstate library Copyright (c) 2018 The Android Open Source Project
+* AndroidX loader library Copyright (c) 2018 The Android Open Source Project
+* AndroidX local broadcast manager library Copyright (c) 2018 The Android Open Source Project
+* AndroidX media base library Copyright (c) 2018 The Android Open Source Project
+* AndroidX print library Copyright (c) 2018 The Android Open Source Project
+* AndroidX savedstate library Copyright (c) 2018 The Android Open Source Project
+* AndroidX Security Copyright (c) 2018 The Android Open Source Project
+* AndroidX slidingpanelayout library Copyright (c) 2018 The Android Open Source Project
+* AndroidX swiperefreshlayout library Copyright (c) 2018 The Android Open Source Project
+* AndroidX tracing library Copyright (c) 2018 The Android Open Source Project
+* AndroidX versioned parcelable library Copyright (c) 2018 The Android Open Source Project
+* AndroidX viewpager library Copyright (c) 2018 The Android Open Source Project
+* AndroidX Widget ViewPager2 Copyright (c) 2018 The Android Open Source Project
+* androidx.databinding.databinding-common Copyright (c) 2018 The Android Open Source Project
+* androidx.databinding:databinding-adapters Copyright (c) 2018 The Android Open Source Project
+* androidx.databinding:databinding-runtime Copyright (c) 2018 The Android Open Source Project
+* androidx.databinding:viewbinding Copyright (c) 2018 The Android Open Source Project
+* apksig Copyright (c) 2016, The Android Open Source Project
+* com.google.firebase:firebase-bom Copyright (c) 2018 Google, Inc.
+* com.google.firebase:firebase-crashlytics Copyright (c) 2018 Google, Inc.
+* com.google.firebase:firebase-firestore Copyright (c) 2018 Google, Inc.
+* com.google.firebase:firebase-installations Copyright (c) 2018 Google, Inc.
+* concurrent_futures Copyright (c) The Android Open Source Project
+* Conscrypt Copyright (c) Conscrypt Contributors
+* Core Kotlin Extensions Copyright (c) The Android Open Source Project
+* CountryCodePicker Copyright (c) Harsh Bhakta
+* Dagger Copyright (c) 2012 Square, Inc.
+* Error Prone Copyright (c) Eddie Aftandilian
+* error-prone annotations Copyright (c) Eddie Aftandilian
+* Experimental annotation Copyright (c) The Android Open Source Project
+* FindBugs-jsr305 
+* Firebase Copyright (c) 2018 Google, Inc.
+* firebase-abt Copyright (c) 2018 Google, Inc.
+* firebase-annotations Copyright (c) 2018 Google, Inc.
+* firebase-appcheck-interop  Copyright (c) 2018 Google, Inc. 
+* firebase-common Copyright (c) 2018 Google, Inc.
+* firebase-components Copyright (c) 2018 Google, Inc. 
+* firebase-config Copyright (c) 2018 Google, Inc.
+* firebase-database Copyright (c) 2018 Google, Inc.
+* firebase-database-collection Copyright (c) 2018 Google, Inc.
+* firebase-datatransport Copyright (c) 2018 Google, Inc.
+* firebase-encoders Copyright (c) 2018 Google, Inc.
+* firebase-encoders-json Copyright (c) 2018 Google, Inc.
+* firebase-encoders-proto Copyright (c) 2018 Google, Inc.
+* firebase-installations-interop Copyright (c) 2018 Google, Inc.
+* firebase-perf Copyright (c) 2018 Google, Inc.
+* firebase-storage Copyright (c) 2018 Google, Inc.
+* FlatBuffers Copyright (c) Wouter van Oortmerssen, Derek Bailey
+* flexbox-layout Copyright (c) Google, Inc.
+* Glide Copyright (c) 2014 Google, Inc.
+* Glide Annotations Copyright (c) 2014 Google, Inc.
+* Glide Disk LRU Cache Library Copyright (c) 2012 Jake Wharton
+* Glide GIF Decoder Library Copyright (c) 2013 Xcellent Creations, Inc.
+* Google Android Annotations Library 
+* Google Auto Copyright (c) 2013 Google LLC 
+* Gson Copyright (c) 2008 Google Inc.
+* Guava JDK5 Copyright (c) 2020 The Guava Authors
+* Guava JDK7 Copyright (c) 2020 The Guava Authors
+* IntelliJ IDEA Annotations Copyright (c) Jetbrains developpers
+* io.grpc:grpc-android Copyright (c) gRPC Contributors
+* io.grpc:grpc-api Copyright (c) gRPC Contributors
+* io.grpc:grpc-context Copyright (c) gRPC Contributors
+* io.grpc:grpc-core Copyright (c) gRPC Contributors
+* io.grpc:grpc-okhttp Copyright (c) gRPC Contributors
+* io.grpc:grpc-protobuf-lite Copyright (c) gRPC Contributors
+* io.grpc:grpc-stub Copyright (c) gRPC Contributors
+* J2ObjC Copyright (c) Google Inc.
+* J2ObjC Annotations Copyright (c) Google Inc.
+* javax.inject 
+* Jslnterop Annotations 
+* JSpecify Copyright (c) 2020 The JSpecify Authors
+* JSR 250 Copyright (c) 2006 Google Inc.
+* JSR 330 Copyright (c) 2006 Google Inc.
+* Kotlin Copyright (c) 2010-2022 JetBrains s.r.o. And Kotlin Programming Language contributors
+* Kotlin coroutines Copyright (c) 2010-2022 JetBrains s.r.o. And Kotlin Programming Language contributors
+* Kotlin Stdlib Copyright (c) 2010-2022 JetBrains s.r.o. And Kotlin Programming Language contributors
+* Kotlin Stdlib Common Copyright (c) 2010-2022 JetBrains s.r.o. And Kotlin Programming Language contributors
+* Kotlin Stdlib Jdk7 Copyright (c) 2010-2022 JetBrains s.r.o. And Kotlin Programming Language contributors
+* Kotlin Stdlib Jdk8 Copyright (c) 2010-2022 JetBrains s.r.o. And Kotlin Programming Language contributors
+* kotlinx-coroutines-android Copyright (c) 2010-2022 JetBrains s.r.o. And Kotlin Programming Language contributors
+* kotlinx-coroutines-bom Copyright (c) 2010-2022 JetBrains s.r.o. And Kotlin Programming Language contributors
+* kotlinx-coroutines-core Copyright (c) 2010-2022 JetBrains s.r.o. And Kotlin Programming Language contributors
+* kotlinx_atomicfu Copyright (c) 2010-2022 JetBrains s.r.o. And Kotlin Programming Language contributors
+* Material Components for Android Copyright (c) The Android Open Source Project
+* perfmark:perfmark-api Copyright (c) Carl Mastrangelo
+* protolite-well-known-types 
+* Recycler Bubble Copyright (c) Michal Klimczak
+* SafeParcelable library 
+* Saved State Copyright (c) The Android Open Source Project
+* SplashScreen Copyright (c) The Android Open Source Project
+* Tape Copyright (c) 2012 Square, Inc.
+* Tink Copyright (c) 2017 Google Inc.
+* Tink Cryptography API for Android Copyright (c) 2017 Google Inc.
+* transport-api 
+* transport-backend-cct
+* transport runtime
+* VersionedParcelable
+* Volley Copyright (c) The Volley Team
+* androidx.constraintlayout:constraintlayout Copyright (c) The Android Open Source Project
+* androidx.recyclerview:recyclerview Copyright (c) The Android Open Source Project
+* androidx.dynamicanimation:dynamicanimation Copyright (c) The Android Open Source Project
+* androidx.browser:browser Copyright (c) The Android Open Source Project
+* com.google.android.material:material Copyright (c) The Android Open Source Project
+* org.jetbrains:annotations Copyright (c) JetBrains Team
+* com.sothree.slidinguppanel:library Copyright (c) Anton Lopyrev
+
+Licensed under the Apache License, Version 2.0 (the "License"); you may not
+use this file except in compliance with the License. You may obtain a copy of
+the License at:
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS, WITHOUT
+WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the
+License for the specific language governing permissions and limitations under
+the License.
+
+-----
+
+MIT License
+
+The following component(s) are licensed under the MIT License reproduced below:
+
+* Animal Sniffer Copyright (c) 2009 codehaus.org.
+* Checker Framework Annotations Copyright (c) Michael Ernst, Suzanne Millstein
+* Checker Framework Utilities Copyright (c) Michael Ernst, Suzanne Millstein
+* Checker Qual Copyright (c) Michael Ernst, Suzanne Millstein
+* jsoup Java HTML Parser Copyright (c) 2009 - 2023 Jonathan Hedley (https://jsoup.org/)
+* ICU4C
+* com.github.hackware1993:MagicIndicator Copyright (c) 2016 hackware1993
+
+Permission is hereby granted, free of charge, to any person obtaining
+a copy of this software and associated documentation files (the
+"Software"), to deal in the Software without restriction, including
+without limitation the rights to use, copy, modify, merge, publish,
+distribute, sublicense, and/or sell copies of the Software, and to
+permit persons to whom the Software is furnished to do so, subject to
+the following conditions:
+
+The above copyright notice and this permission notice shall be
+included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY
+CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT,
+TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE
+SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+-----
+
+BSD 2-Clause License
+
+The following component(s) are licensed under the BSD 2-Clause License reproduced below:
+
+* darts_clone Copyright (c) 2008-2014, Susumu Yata. All rights reserved.
+
+Redistribution and use in source and binary forms, with or without
+modification, are permitted provided that the following conditions are
+met:
+
+1. Redistributions of source code must retain the above copyright
+   notice, this list of conditions and the following disclaimer.
+2. Redistributions in binary form must reproduce the above copyright
+   notice, this list of conditions and the following disclaimer in the
+   documentation and/or other materials provided with the distribution.
+
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS
+IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED
+TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A
+PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT
+HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL,
+SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED
+TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR
+PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF
+LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING
+NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS
+SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+-----
+
+BSD 3-Clause "New" or "Revised" License
+
+The following component(s) are licensed under the BSD 3-Clause "New" or "Revised" License reproduced below:
+
+* JSR 305 Copyright (c) 2007-2009, JSR305 expert group. All rights reserved.
+* PCRE Copyright (c) 2007-2012 Google, Inc.
+
+Redistribution and use in source and binary forms, with or without modification,
+are permitted provided that the following conditions are met:
+
+Redistributions of source code must retain the above copyright notice, this list
+of conditions and the following disclaimer.
+
+Redistributions in binary form must reproduce the above copyright notice, this
+list of conditions and the following disclaimer in the documentation and/or
+other materials provided with the distribution.
+
+Neither the name of the ORGANIZATION nor the names of its contributors may be
+used to endorse or promote products derived from this software without specific
+prior written permission.
+
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS
+"AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO,
+THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE
+ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS
+BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR
+CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE
+GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION)
+HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT
+LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF
+THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+-----
+
+"This app uses Firebase, a set of tools and services provided by Google, and is subject to Google's Terms of Service and Privacy Policy."
+
+-----
+
+PerksApp uses the Android platform. You may obtain a copy 
+of the Android Software Development Kit License at: 
+
+	https://source.android.com/docs/setup/about/licenses
+	https://developer.android.com/studio/terms.html
+
+The following component(s) are licensed under the Android Software Development Kit License reproduced below:
+
+* Android SDK
+* firebase-analytics
+* firebase-auth
+* firebase-auth-interop
+* firebase-core
+* firebase-crash
+* firebase-iid
+* firebase-iid-interop
+* firebase-measurement-connector
+* firebase-messaging
+* play-services-ads-identifier 
+* play-services-auth-api-phone 
+* play-services-base 
+* play-services-basement 
+* play-services-cloud-messaging 
+* play-services-flags 
+* play-services-location 
+* play-services-maps 
+* play-services-measurement 
+* play-services-measurement-api 
+* play-services-measurement-base 
+* play-services-measurement-impl 
+* play-services-measurement-sdk 
+* play-services-measurement-sdk-api 
+* play-services-places 
+* play-services-places-placereport 
+* play-services-safetynet 
+* play-services-stats 
+* play-services-tasks 
+* Protobuf Nano 
+* Protocol Buffers for Java
+* RE2 Copyright (c) 2009 The RE2 Authors
+
+-----
+
+SGI STL
+
+The STL portion of GNU libstdc++ that is used with gcc3 and gcc4 is licensed
+under the GPL, with the following exception:
+# As a special exception, you may use this file as part of a free software
+# library without restriction.  Specifically, if other files instantiate
+# templates or use macros or inline functions from this file, or you compile
+# this file and link it with other files to produce an executable, this
+# file does not by itself cause the resulting executable to be covered by
+# the GNU General Public License.  This exception does not however
+# invalidate any other reasons why the executable file might be covered by
+# the GNU General Public License.
+
+-----
+
+UTF-8 Library
+
+The authors of this software are Rob Pike and Ken Thompson.
+             Copyright (c) 1998-2002 by Lucent Technologies.
+Permission to use, copy, modify, and distribute this software for any
+purpose without fee is hereby granted, provided that this entire notice
+is included in all copies of any software which is or includes a copy
+or modification of this software and in all copies of the supporting
+documentation for such software.
+THIS SOFTWARE IS BEING PROVIDED "AS IS", WITHOUT ANY EXPRESS OR IMPLIED
+WARRANTY.  IN PARTICULAR, NEITHER THE AUTHORS NOR LUCENT TECHNOLOGIES MAKE ANY
+REPRESENTATION OR WARRANTY OF ANY KIND CONCERNING THE MERCHANTABILITY
+OF THIS SOFTWARE OR ITS FITNESS FOR ANY PARTICULAR PURPOSE.
+
+-----
+
+zlib Library
+
+(extracted from README, except for match.S)
+
+Copyright notice:
+
+ (C) 1995-2013 Jean-loup Gailly and Mark Adler
+
+  This software is provided 'as-is', without any express or implied
+  warranty.  In no event will the authors be held liable for any damages
+  arising from the use of this software.
+
+  Permission is granted to anyone to use this software for any purpose,
+  including commercial applications, and to alter it and redistribute it
+  freely, subject to the following restrictions:
+
+  1. The origin of this software must not be misrepresented; you must not
+     claim that you wrote the original software. If you use this software
+     in a product, an acknowledgment in the product documentation would be
+     appreciated but is not required.
+  2. Altered source versions must be plainly marked as such, and must not be
+     misrepresented as being the original software.
+  3. This notice may not be removed or altered from any source distribution.
+
+  Jean-loup Gailly        Mark Adler
+  jloup@gzip.org          madler@alumni.caltech.edu
+
+If you use the zlib library in a product, we would appreciate *not* receiving
+lengthy legal documents to sign.  The sources are provided for free but without
+warranty of any kind.  The library has been entirely written by Jean-loup
+Gailly and Mark Adler; it does not include third-party code.
+
+If you redistribute modified sources, we would appreciate that you include in
+the file ChangeLog history information documenting your changes.  Please read
+the FAQ for more information on the distribution of modified source versions.
+
+(extracted from match.S, for match.S only)
+
+Copyright (C) 1998, 2007 Brian Raiter <breadbox@muppetlabs.com>
+
+This software is provided 'as-is', without any express or implied
+warranty.  In no event will the author be held liable for any damages
+arising from the use of this software.
+
+Permission is granted to anyone to use this software for any purpose,
+including commercial applications, and to alter it and redistribute it
+freely, subject to the following restrictions:
+
+1. The origin of this software must not be misrepresented; you must not
+  claim that you wrote the original software. If you use this software
+  in a product, an acknowledgment in the product documentation would be
+  appreciated but is not required.
+2. Altered source versions must be plainly marked as such, and must not be
+  misrepresented as being the original software.
+3. This notice may not be removed or altered from any source distribution.
